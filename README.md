@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @alekaka223
-- 👀 I’m interested in downloading bots for servers
-- 🌱 I’m currently learning Chemistry
+- та ну не
 
 <!---
 alekaka223/alekaka223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
